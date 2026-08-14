@@ -76,6 +76,8 @@ Filtros
 
 ## 🖥️ Vista General (Overview)
 
+![Vista general del dashboard](screenshots/overview.png)
+
 **S (Situación):**
 El negocio generó **5.53M en ingresos** durante 2024–2025, con un costo asociado de 3.59M, dejando un margen de utilidad de **1.94M (35%)** sobre **58K unidades vendidas**. Perú, Chile y la Región Norte concentran la mayor parte de la facturación.
 
@@ -91,6 +93,8 @@ A nivel agregado, el negocio se muestra **operativamente estable** (35% de marge
 ---
 
 ## 🔎 Vista Detalle
+
+![Analisis detallado](screenshots/detalle.png)
 
 **S (Situación):**
 Al desagregar, el 66% de los ingresos se concentra en **verano** (2.2M), mientras que invierno apenas aporta 0.7M — el ciclo estacional detectado en el Overview se confirma y se explica: el negocio depende fuertemente de una sola temporada. Las 4 categorías de producto (Deportes, Electrónica, Hogar, Ropa) están muy equilibradas en ingresos (1.3M–1.44M) y en margen (34.9%–35.3%).
