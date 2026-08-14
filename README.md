@@ -7,9 +7,13 @@ Soy analista de datos en Andes Retail Group, una empresa de retail con operacion
 La empresa comercializa productos en cuatro categorías:
 
 🖥️ Electrónica
+
 👕 Ropa
+
 ⚽ Deportes
+
 🏠 Hogar
+
 La dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025.
 
 Actualmente, la información está dispersa en datos transaccionales y no existe una visión clara que permita responder preguntas estratégicas sobre ventas, rentabilidad y comportamiento de clientes.
