@@ -16,13 +16,13 @@
 ## 🔹3: Diseño y planificación del Dashboard (antes y durante la construcción)
 
 #### Vista Overview - ¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?
-Especifica qué KPIs incluirás y por qué: (3-4 KPIs)
+Cuales KPIs y por qué:
 - Ingresos: Es la métrica que dirección mira primero, responde directamente "¿cómo va el negocio?".
 - Costo: Sin costo, los ingresos no dicen nada sobre salud financiera. Es el dato que le da contexto al KPI de ingresos — un aumento en ingresos puede ser buena o mala noticia dependiendo de cómo se movió el costo.
 - Margen / Utilidad: Es la métrica que realmente le importa a dirección ejecutiva, más que ingresos o costo por separado. Ingresos altos con margen bajo es una señal de alerta que solo se ve si calculas esta diferencia explícitamente. Es el KPI "resumen" de rentabilidad.
 - Unidades Vendidas Totales: Da contexto de volumen: permite distinguir si el negocio crece por vender más o por vender más caro (relación con Precio_Unitario). Sin este dato, un aumento de ingresos podría malinterpretarse como crecimiento saludable cuando en realidad es solo efecto precio.
 ***
-Explica qué gráfico usarás para cada pregunta y justifica la elección.
+Que gráficos  y por qué.
 - Gráfico de líneas ¿Cómo evolucionaron los ingresos 2024 vs 2025?
 
 Por qué: la pregunta es sobre tendencia en el tiempo, y las líneas son el estándar visual para mostrar cambio continuo. Además, permite comparar dos periodos (2024 vs 2025) superponiendo las líneas, algo que barras o tarjetas no comunican con la misma claridad.
@@ -56,7 +56,7 @@ Filtro(s)
 - Estacion
 ***
 #### Vista detalle - ¿Por qué se han caido/subido/mantenido los ingresos?
-Explica qué gráfico usarás para cada pregunta y justifica la elección.
+Que gráficos  y por qué.
 - Gráfico comparación estacional contra ingresos: Gráfico de barras para comparar si alguna epoca del ano tiene relevancia o genera algun comportamiento atipico.
 - Gráfico comparación de categorias contra ingresos: Gráfico de barras para comparar si algun departamento esta teniendo un desempeno atipico.
 - Gráfico comparación de categorias contra ingresos: Gráfico de barras para comparar si el % de margen de utilidad revela algun patron o tendencia.
