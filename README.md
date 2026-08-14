@@ -22,7 +22,7 @@ Actualmente, la información está dispersa en datos transaccionales y no existe
 
 ## 📂 Contenido del repositorio
 
-- `Desarrollo.md`
+- `Desarrollo.md` 
   → Archivo Markdown que contiene el desarrollo detallado del proyecto.
 - `Dashboard_desempeno_comercial.pbix`
   → Archivo descargable para PowerBI.
