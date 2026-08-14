@@ -114,7 +114,7 @@ Las oportunidades no están en "vender más de lo mismo en verano", sino en **do
 
 **📊 Resumen Desempeño Comercial 2024–2025**
 >
-> Cerramos el periodo con **5.53M en ingresos** y **35% de margen** — operación sólida y estable. *(Aún por confirmar el % exacto de crecimiento vs. 2024 con la métrica YoY.)*
+> Cerramos el periodo con **5.53M en ingresos** y **35% de margen** — operación sólida y estable. 
 >
 > El hallazgo clave: **dependemos demasiado del verano** (66% de ingresos vs. solo 13% en invierno), y las 4 categorías de producto están parejas en desempeño — no hay una "estrella" que esté jalando el crecimiento.
 >
