@@ -24,10 +24,10 @@ Actualmente, la información está dispersa en datos transaccionales y no existe
 
 - `Desarrollo.md`
   → Archivo Markdown que contiene el desarrollo detallado del proyecto.
-- `Project_ConnectaTel.ipynb`
-  → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
-- `Project_ConnectaTel.ipynb`
-  → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.    
+- `Dashboard_desempeno_comercial.pbix`
+  → Archivo descargable para PowerBI.
+- `screenshots`
+  → Imagenes de referencia "evidencia del proyecto".
 
 ## 🧠 Objetivo del análisis
 
